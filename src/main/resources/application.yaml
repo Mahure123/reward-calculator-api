@@ -1,0 +1,11 @@
+server:
+  port: 9090
+
+spring:
+  application:
+    name: reward-calculator-api
+
+logging:
+  level:
+    root: INFO
+    com.test.reward_calculator_api: DEBUG
